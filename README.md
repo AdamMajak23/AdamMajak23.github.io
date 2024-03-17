@@ -1,7 +1,3 @@
-# AdamMajak23.github.io
-
-**Adam Maik**
-
 # Adam Maik
 
 ## Profile
