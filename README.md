@@ -8,7 +8,6 @@
 
 I am an enthusiastic, self - motivated and responsible person who has an energetic and passionate approach to work as well as a friendly personality. I am a mature team worker and adaptable to all challenging situations. I can work well having integrity and using my own initiative. I can work well under pressure and adhere to strict deadlines. I have always been extremely passionate about computer science and technology, the way a computer is built and the coding behind it, is extremely fascinating for me. Currently I am studying programming and I have nearly come to the end of my course. I am learning new coding skills and new technological devices on a regular basis.
 
-<![endif]-->
 
 ## Employment History
 
